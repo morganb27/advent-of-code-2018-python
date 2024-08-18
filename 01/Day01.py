@@ -22,11 +22,6 @@ def calibration_part_two(data):
         i += 1
 
 
-
-
-
-
-
 calibration(PUZZLE)
 calibration_part_two(PUZZLE)
 print(f"Solution to part 1 is: {PART_1}")
